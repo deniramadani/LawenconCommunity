@@ -1,0 +1,6 @@
+[submodule "LawenconCommunity-BE"]
+	path = LawenconCommunity-BE
+	url = git@github.com:deniramadani/LawenconCommunity-BE.git
+[submodule "LawenconCommunity-FE"]
+	path = LawenconCommunity-FE
+	url = git@github.com:deniramadani/LawenconCommunity-FE.git
